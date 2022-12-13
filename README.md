@@ -1,9 +1,9 @@
 # Lighthouse Labs Mini Project IV - Deployment
 
 ### [Assignment Outline](assignment.md)
-### [Project Notebook](/notebooks/instructions.ipynb)
-### [API Python Code](/notebooks/app.py)
-### [Best Model Pickle](/notebooks/best_model.pkl)
+### [Project Notebook](/project_main/instructions.ipynb)
+### [API Python Code](/project_main/app.py)
+### [Best Model Pickle](/project_main/best_model.pkl)
 
 ## Project/Goals
 The goal of this project was to build a working model using supervised learning techniques, that could predict the status of a loan application.
